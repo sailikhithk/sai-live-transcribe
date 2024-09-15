@@ -1,0 +1,9 @@
+Folder PATH listing
+Volume serial number is 58C0-B943
+C:.
+|   .gitignore
+|   ai_tool_ds__directory_tree.txt
+|   directory_tree.txt
+|   main.py
+|   Makefile
+|   requirements.txt

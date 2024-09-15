@@ -1,0 +1,15 @@
+Folder PATH listing
+Volume serial number is 00540049 58C0:B943
+C:\USERS\LIKKI\DOWNLOADS\GITHUB\SAI-LIVE-TRANSCRIBE\FRONTEND\SRC
+|   App.tsx
+|   index.tsx
+|   
++---components
+|       ControlPanel.tsx
+|       ErrorDisplay.tsx
+|       TranscriptionDisplay.tsx
+|       
+\---hooks
+        useAudioCapture.ts
+        useWebSocket.ts
+        
